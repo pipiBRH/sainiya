@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\017\C#\menu.cs">
+    <Files>
+      <File FileName="Assets\017\C#\menu.cs" Line="356" Column="39" />
+      <File FileName="Assets\017\C#\crt\camcrt.cs" Line="1" Column="1" />
+      <File FileName="Assets\017\C#\CMySql.cs" Line="1" Column="1" />
+      <File FileName="Assets\017\C#\monster_maker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
